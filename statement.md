@@ -141,10 +141,9 @@ Enter yes or no:-YES
 
 
 &#x20;               TARNISHED ONE .....THE NUMBER YOU ENTERED NOW WAS LESSER THAN THE NUMBER I WAS THINKING........
-*'''
 
 
 
 
-&#x20;               TARNISHED ONE i expected more from the student of THE HIGH SORCEROR .............
+&#x20;               TARNISHED ONE i expected more from the student of THE HIGH SORCEROR ............. '''
 
