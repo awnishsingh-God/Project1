@@ -106,9 +106,9 @@ To thoroughly test all mechanics in the game:
 
 &#x20;
 
-* ***When prompted for a hint***: Type yes to confirm your attempt counter increases by 1 and a high/low clue is displayed. 
+* ***When prompted for a hint***: Type yes to confirm your attempt counter increases by 1 and a high/low clue is displayed....Play again and type no to confirm te                                   hint is skipped smoothly.
 
-&#x20;                            Play again and type no to confirm te hint is skipped smoothly.
+&#x20;                            
 
 * ***Test Loss Scenario***: Intentionally guess incorrectly 5 times to trigger the "Endless Void" game over sequence.
 
