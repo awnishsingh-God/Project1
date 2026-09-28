@@ -1,4 +1,4 @@
-#### **# The Hexagon Citadel: Journey of The Syntax Guardian**
+#### **#The Hexagon Citadel: Journey of The Syntax Guardian**
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-#### \# Overview of the project:
+#### \#Overview of the project:
 
 
 
@@ -16,7 +16,7 @@
 
 #### 
 
-#### \# Features:
+#### \#Features:
 
 
 
@@ -28,7 +28,7 @@
 
 
 
-#### \# Technologies \& Tools Used:
+#### \#Technologies \& Tools Used:
 
 
 
@@ -52,33 +52,33 @@
 
 &#x20;     2. Open Terminal / Command Prompt\*\*
 
-&#x20;       - \*\*Windows:\*\* Press `Win + R`, type `cmd`, and press Enter. Navigate to your folder:
+&#x20;         - \*\*Windows:\*\* Press `Win + R`, type `cmd`, and press Enter. Navigate to your folder:
 
-&#x20;         ```cmd
+&#x20;           ```cmd
 
-&#x20;         cd path\\to\\your\\folder
+&#x20;           cd path\\to\\your\\folder
 
-&#x20;         ```
+&#x20;           ```
 
 
 
-&#x20;       - \*\*macOS / Linux:\*\* Open Terminal and navigate to your folder:
+&#x20;         - \*\*macOS / Linux:\*\* Open Terminal and navigate to your folder:
 
-&#x20;         ```bash
+&#x20;           ```bash
 
-&#x20;         cd path/to/your/folder
+&#x20;           cd path/to/your/folder
 
-&#x20;         ```
+&#x20;           ```
 
 
 
 &#x20;     3. \*\*Launch the Game\*\*
 
-&#x20;        Run the program using:
+&#x20;          Run the program using:
 
-&#x20;        ```bash
+&#x20;          ```bash
 
-&#x20;        python main.py
+&#x20;          python main.py
 
 
 
@@ -111,13 +111,6 @@ To thoroughly test all mechanics in the game:
 &#x20;                            Play again and type no to confirm te hint is skipped smoothly.
 
 * ***Test Loss Scenario***: Intentionally guess incorrectly 5 times to trigger the "Endless Void" game over sequence.
-
-
-
-#### \#Screen shots:
-
-
-
 
 
 #### &#x20;
