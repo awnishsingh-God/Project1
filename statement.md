@@ -1,4 +1,4 @@
-#### **# Problem Statement: The Hexagon Citadel Castle**
+#### **#Problem Statement: The Hexagon Citadel Castle**
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-#### \# 1. Overview \& Background
+#### \#1. Overview \& Background
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-#### \# 2. Game Rules \& Constraints
+#### \#2. Game Rules \& Constraints
 
 
 
@@ -26,7 +26,7 @@
 
 
 
-#### \# 3. Program Specifications
+#### \#3. Program Specifications
 
 
 
@@ -69,101 +69,57 @@ Enter your name:-SYNTAX GUARDIAN
 
 
 
-&#x20;                   ONCE UPON A TIME THERE LIVED A MAN\~ THE SYNTAX GUARDIAN\~ NAMED SYNTAX GUARDIAN A FEARLESS PROGRAMMER.....AFRAID OF NOTHING...
-
-&#x20;                     He was sent on a mission by his master HIGH SORCERER AJEET SINGH to defeat THE UNDEFEATED PROFFESOR HEXADECIMAL.
-
+                   ONCE UPON A TIME THERE LIVED A MAN\~ THE SYNTAX GUARDIAN\~ NAMED SYNTAX GUARDIAN A FEARLESS PROGRAMMER.....AFRAID OF NOTHING...
+                     He was sent on a mission by his master HIGH SORCERER AJEET SINGH to defeat THE UNDEFEATED PROFFESOR HEXADECIMAL.
 
 
 
-
-&#x20;                 So he packed his PC and went to the GREAT MOUNT ABYSSUS....a mountaion which was directly attached to an endless DARK VOID
-
-&#x20;                                           On the top of the mountain sat the HEXAGON CITADEL CASTLE of the Proffesor....
-
-
-
-
+                 So he packed his PC and went to the GREAT MOUNT ABYSSUS....a mountaion which was directly attached to an endless DARK VOID
+                                           On the top of the mountain sat the HEXAGON CITADEL CASTLE of the Proffesor....
 
 
 
 ==========================================================WELCOME TO THE HEXAGON CITADEL CASTLE============================================================
 
 
-
-&#x20;                   HALT, Tarnished one! I am THE PROFFESOR HEXADECIMAL !!!!! Your master sent you to learn Python ? \[Laughs mockingly]
-
-&#x20;                                    but your journey ends here! Guess my secret number, Tarnished One, or fall into the Void!
+                   HALT, Tarnished one! I am THE PROFFESOR HEXADECIMAL !!!!! Your master sent you to learn Python ? \[Laughs mockingly]
+                                   but your journey ends here! Guess my secret number, Tarnished One, or fall into the Void!
 
 
+                I will be generous with you by giving you 5 ATTEMPTS.....THE NUMBER I AM THINKING WILL BE IN BETWEEN OF 1 TO 10.........
+                            BEWARE!!!!!! TARNISHED ONE.. DO NOT GUESS BLINDLY , THINK BEFORE MAKING YOUR NEXT CHOICE......
 
-
-
-&#x20;                 I will be generous with you by giving you 5 ATTEMPTS.....THE NUMBER I AM THINKING WILL BE IN BETWEEN OF 1 TO 10.........
-
-&#x20;                            BEWARE!!!!!! TARNISHED ONE.. DO NOT GUESS BLINDLY , THINK BEFORE MAKING YOUR NEXT CHOICE......
-
-
-
-&#x20;                                         OR ELSE YOU WILL BE PUSHED IN AN ENDLESS VOID AND FALL FOR ETERNITY
-
-
-
-
-
+                                      OR ELSE YOU WILL BE PUSHED IN AN ENDLESS VOID AND FALL FOR ETERNITY
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~LETS START...... GOOD LUCK TARNISHED ONE~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
-
 OKAY TARNISHED WHATS YOUR GUESS??:-1
 
+      TARNISHED ONE the number you entered is not correct ..........
 
-
-&#x20;       TARNISHED ONE the number you entered is not correct ..........
-
-
-
-
-
-&#x20;       Try AGAIN Tarnished one \[PROFFESOR LAUGHING AND MOCKING YOU]........
+      Try AGAIN Tarnished one \[PROFFESOR LAUGHING AND MOCKING YOU]........
 
 
 
 OKAY TARNISHED WHATS YOUR GUESS??:-5
 
 
+       TARNISHED ONE your guess is incorrect once again...I FEEL PITY FOR YOU..........
 
-&#x20;       TARNISHED ONE your guess is incorrect once again...I FEEL PITY FOR YOU..........
+       OKAY TARNISHED ONE..... WOULD YOU LIKE TO HAVE A HINT ????
 
-
-
-
-
-&#x20;       OKAY TARNISHED ONE..... WOULD YOU LIKE TO HAVE A HINT ????
-
-&#x20;           BUT IT WILL REDUSE YOUR 1 TRY.. CHOOSE WISELY.......
+           BUT IT WILL REDUSE YOUR 1 TRY.. CHOOSE WISELY.......
 
 
 
 Enter yes or no:-YES
 
+               TARNISHED ONE ..... YOU HAVE CHOSEN TO SACRIFICE YOUR 1 TRY TO GET A HINT........
 
+               TARNISHED ONE .....THE NUMBER YOU ENTERED NOW WAS LESSER THAN THE NUMBER I WAS THINKING........
 
-&#x20;               TARNISHED ONE ..... YOU HAVE CHOSEN TO SACRIFICE YOUR 1 TRY TO GET A HINT........
-
-
-
-
-
-&#x20;               TARNISHED ONE .....THE NUMBER YOU ENTERED NOW WAS LESSER THAN THE NUMBER I WAS THINKING........
-
-
-
-
-
-&#x20;               TARNISHED ONE i expected more from the student of THE HIGH SORCEROR .............
+               TARNISHED ONE i expected more from the student of THE HIGH SORCEROR .............
 
 ```
 
