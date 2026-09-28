@@ -1,4 +1,4 @@
-#### **# Problem Statement: The Hexagon Citadel Castle**
+#### **#Problem Statement: The Hexagon Citadel Castle**
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-#### \# 1. Overview \& Background
+#### \#1. Overview \& Background
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-#### \# 2. Game Rules \& Constraints
+#### \#2. Game Rules \& Constraints
 
 
 
@@ -26,7 +26,7 @@
 
 
 
-#### \# 3. Program Specifications
+#### \#3. Program Specifications
 
 
 
@@ -141,7 +141,7 @@ Enter yes or no:-YES
 
 
 &#x20;               TARNISHED ONE .....THE NUMBER YOU ENTERED NOW WAS LESSER THAN THE NUMBER I WAS THINKING........
-
+*'''text
 
 
 
